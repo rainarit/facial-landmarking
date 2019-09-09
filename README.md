@@ -23,6 +23,6 @@ The libraries and frameworks displayed above could be installed in the following
 `pip3 install 'framework/library'`
 ## Usage ##
 1. Download [facial_landmarking.py](https://github.com/rainarit/FacialLandmarking/blob/master/facial_landmarking.py). 
-2. Download[shape_predictor_81_face_landmarks.dat](https://github.com/rainarit/FacialLandmarking/blob/master/shape_predictor_81_face_landmarks.dat)
+2. Download [shape_predictor_81_face_landmarks.dat](https://github.com/rainarit/FacialLandmarking/blob/master/shape_predictor_81_face_landmarks.dat)
 3. Go to your Python IDLE and insert: 
 `python3 facial_landmarking.py`
