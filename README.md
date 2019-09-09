@@ -1,4 +1,4 @@
-# FacialLandmarking
+# Facial Landmarking
 #### [facial_landmarking.py](https://github.com/rainarit/FacialLandmarking/blob/master/facial_landmarking.py) #### 
 __Completed :white_check_mark:__
 
