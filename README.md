@@ -8,7 +8,7 @@ An extra touch to the script was the use of counting how many blinks were made. 
 
 <img src='http://g.recordit.co/fTUgWGwohA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-# Installation ##
+## Installation ##
 ### Requirements ###
 The following software libraries/frameworks should be installed:
 * [Python](https://www.python.org/downloads/) 3.3+ or Python 2
